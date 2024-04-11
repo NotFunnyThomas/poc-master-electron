@@ -1,4 +1,5 @@
 ﻿using Domain.Mom;
+using Domain.Tools;
 
 namespace Domain
 {
@@ -11,5 +12,7 @@ namespace Domain
         void Pause();
         void Resume();
         void EmissionMessage(MessageComm msg);
+
+        public event InfoFromListener InfoDlg;
     }
 }

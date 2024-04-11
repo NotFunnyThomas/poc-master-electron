@@ -1,0 +1,14 @@
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\NotificationServiceImplementation.deps.json
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\NotificationServiceImplementation.pdb
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\RootLib.pdb
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\Apache.NMS.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\Apache.NMS.ActiveMQ.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\ElectronNET.API.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\Microsoft.Win32.SystemEvents.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\Newtonsoft.Json.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\SocketIOClient.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\SocketIOClient.Newtonsoft.Json.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\System.Drawing.Common.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\RootLib.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NDCOslo2020-master\obj\Host\bin\NotificationServiceImplementation.dll

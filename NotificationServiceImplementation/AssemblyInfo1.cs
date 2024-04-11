@@ -1,5 +1,5 @@
-using System.Runtime.InteropServices;
 using Domain.Tools;
+using System.Runtime.InteropServices;
 
 // Dans les projets de type SDK comme celui-là, plusieurs attributs d'assembly définis
 // historiquement dans ce fichier sont maintenant automatiquement ajoutés pendant
@@ -16,7 +16,6 @@ using Domain.Tools;
 
 // Le GUID suivant concerne l'ID de typelib si ce projet est exposé à COM.
 
-[assembly: Guid("325590ce-c793-4942-8ba1-7a4dc6b5e1f7")]
+[assembly: Guid("87036934-8fee-4161-9c1e-1c6b531636db")]
 
-[assembly: InfoPlugin(ServiceProvide = "MomListener", CurrentVersionMeta = "", Description = "Implementation pour momListener", CompatibleVersion = "", ServiceImplementationName = "Domain.Mom.MomListener")]
-
+[assembly: InfoPlugin(ServiceProvide = "NotificationService", CurrentVersionMeta = "", Description = "Implementation pour NotificationService", CompatibleVersion = "", ServiceImplementationName = "Domain.Services.NotificationService")]

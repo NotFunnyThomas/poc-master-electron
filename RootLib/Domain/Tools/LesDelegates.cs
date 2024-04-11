@@ -2,5 +2,5 @@
 
 namespace Domain.Tools
 {
-	public delegate void InfoFromListener(MessageComm messageNotif);
+	public delegate void InfoFromListener(Object source, MessageComm messageNotif);
 }

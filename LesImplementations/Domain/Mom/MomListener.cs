@@ -12,12 +12,13 @@ namespace Domain.Mom
 {
     public class MomListener : IServiceDeamon
     {
-
         private readonly ILogger _logger;
 
-		public InfoFromListener dlgListener;
+		//public InfoFromListener dlgListener;
 
-		public MomListener(ILogger<MomListener> logger)
+        public event InfoFromListener InfoDlg;
+
+        public MomListener(ILogger<MomListener> logger)
         {
             _logger = logger;
             _logger.LogInformation("Ctr du MomListener");
@@ -139,7 +140,7 @@ namespace Domain.Mom
                 ITextMessage message = receivedMsg as ITextMessage;
                 MessageComm? messageComm = JsonSerializer.Deserialize<MessageComm>(message.Text);
                 pthis._logger.LogInformation($"MessageComm : {messageComm.Description}");
-				pthis.dlgListener(messageComm);
+				pthis.InfoDlg(this, messageComm);
 				receivedMsg.Acknowledge();
 
 			}

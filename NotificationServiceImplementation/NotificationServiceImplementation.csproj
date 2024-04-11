@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Apache.NMS.ActiveMQ" Version="2.1.0" />
     <PackageReference Include="ElectronNET.API" Version="23.6.2" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="copy $(TargetPath) c:\plugins\LesImplementations.dll" />
+    <Exec Command="copy $(TargetPath) c:\plugins\NotificationServiceImplementation.dll" />
   </Target>
 
 </Project>

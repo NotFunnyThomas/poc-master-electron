@@ -10,6 +10,7 @@ namespace Domain.Tools
     public class InfoPluginAttribute : Attribute
     {
         public string ServiceProvide { get; set; } = "";
+        public string ServiceImplementationName { get; set; } = "";
         public string Description { get; set; } = "";
         public string CurrentVersionMeta { get; set; } = "";
         public string CompatibleVersion { get; set; } = "";

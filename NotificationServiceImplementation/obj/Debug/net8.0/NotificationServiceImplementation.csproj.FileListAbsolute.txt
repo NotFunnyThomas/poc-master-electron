@@ -1,0 +1,16 @@
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.csproj.AssemblyReference.cache
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.AssemblyInfoInputs.cache
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.AssemblyInfo.cs
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.sourcelink.json
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\bin\Debug\net8.0\NotificationServiceImplementation.deps.json
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\bin\Debug\net8.0\NotificationServiceImplementation.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\bin\Debug\net8.0\NotificationServiceImplementation.pdb
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\bin\Debug\net8.0\RootLib.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\bin\Debug\net8.0\RootLib.pdb
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.csproj.CopyComplete
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\refint\NotificationServiceImplementation.dll
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\NotificationServiceImplementation.pdb
+C:\Users\orsys\Documents\workspaces\RootProject\NotificationServiceImplementation\obj\Debug\net8.0\ref\NotificationServiceImplementation.dll

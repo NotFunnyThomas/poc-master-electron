@@ -28,16 +28,18 @@ namespace Processes
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            Type[] tps = AsmLoader.loadAsm();
+            AsmLoader.LoadPlugins(@"c:\plugins", services);
+
+            /*Type[] tps = AsmLoader.loadAsm();
             Type momListenerImplementation = tps[0];
-            Type notificationServiceImplementation = tps[1];
+            Type notificationServiceImplementation = tps[1];*/
 
             services.AddRazorPages();
 			//services.AddSingleton(typeof(MomListener));
 			//services.AddSingleton<NotificationService>();
 			
-            services.AddKeyedSingleton(typeof(IServiceDeamon), "MomListener", momListenerImplementation);
-			services.AddKeyedSingleton(typeof(IServiceDeamon), "NotificationService", notificationServiceImplementation);
+            //services.AddKeyedSingleton(typeof(IServiceDeamon), "MomListener", momListenerImplementation);
+			//services.AddKeyedSingleton(typeof(IServiceDeamon), "NotificationService", notificationServiceImplementation);
 
 			//services.AddKeyedSingleton<IServiceDeamon, MomListener>("MomListener");
 			//services.AddKeyedSingleton<IServiceDeamon, NotificationService>("NotificationService");

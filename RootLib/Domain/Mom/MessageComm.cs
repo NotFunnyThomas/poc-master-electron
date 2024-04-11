@@ -2,7 +2,7 @@
 
 namespace Domain.Mom
 {
-    public class MessageComm
+    public class MessageComm : EventArgs
     {
         public string Source { get; set; }
 

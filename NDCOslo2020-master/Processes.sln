@@ -5,9 +5,11 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Processes", "Processes.csproj", "{6BAC4144-B5F1-4D50-AAD7-83284287E1A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootLib", "..\RootLib\RootLib.csproj", "{DA2383E4-442C-4312-8513-8263ECD2AEBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RootLib", "..\RootLib\RootLib.csproj", "{DA2383E4-442C-4312-8513-8263ECD2AEBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesImplementations", "..\LesImplementations\LesImplementations.csproj", "{067339B5-BB72-407F-A553-817E09BD89CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LesImplementations", "..\LesImplementations\LesImplementations.csproj", "{067339B5-BB72-407F-A553-817E09BD89CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServiceImplementation", "..\NotificationServiceImplementation\NotificationServiceImplementation.csproj", "{30357F7E-849C-42A9-BF3E-975CF494E2C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{067339B5-BB72-407F-A553-817E09BD89CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067339B5-BB72-407F-A553-817E09BD89CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067339B5-BB72-407F-A553-817E09BD89CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30357F7E-849C-42A9-BF3E-975CF494E2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30357F7E-849C-42A9-BF3E-975CF494E2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30357F7E-849C-42A9-BF3E-975CF494E2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30357F7E-849C-42A9-BF3E-975CF494E2C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
