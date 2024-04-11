@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\TestMain\\TestMain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\LesImplementations\\LesImplementations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\LesImplementations\\LesImplementations.csproj",
+        "projectName": "LesImplementations",
+        "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\LesImplementations\\LesImplementations.csproj",
+        "packagesPath": "C:\\Users\\orsys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\LesImplementations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\orsys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj": {
+                "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Apache.NMS.ActiveMQ": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "ElectronNET.API": {
+              "target": "Package",
+              "version": "[23.6.2, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\NotificationServiceImplementation\\NotificationServiceImplementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\NotificationServiceImplementation\\NotificationServiceImplementation.csproj",
+        "projectName": "NotificationServiceImplementation",
+        "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\NotificationServiceImplementation\\NotificationServiceImplementation.csproj",
+        "packagesPath": "C:\\Users\\orsys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\NotificationServiceImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\orsys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj": {
+                "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Apache.NMS.ActiveMQ": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "ElectronNET.API": {
+              "target": "Package",
+              "version": "[23.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj",
+        "projectName": "RootLib",
+        "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj",
+        "packagesPath": "C:\\Users\\orsys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\orsys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\TestMain\\TestMain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\TestMain\\TestMain.csproj",
+        "projectName": "TestMain",
+        "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\TestMain\\TestMain.csproj",
+        "packagesPath": "C:\\Users\\orsys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\TestMain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\orsys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\LesImplementations\\LesImplementations.csproj": {
+                "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\LesImplementations\\LesImplementations.csproj"
+              },
+              "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\NotificationServiceImplementation\\NotificationServiceImplementation.csproj": {
+                "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\NotificationServiceImplementation\\NotificationServiceImplementation.csproj"
+              },
+              "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj": {
+                "projectPath": "C:\\Users\\orsys\\Documents\\workspaces\\RootProject\\RootLib\\RootLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Apache.NMS.ActiveMQ": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "ElectronNET.API": {
+              "target": "Package",
+              "version": "[23.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
