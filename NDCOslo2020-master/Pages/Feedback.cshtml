@@ -1,0 +1,14 @@
+﻿@page
+@model Processes.Pages.FeedbackModel
+@{
+
+}
+
+<form method="post">
+	<input asp-for="Auteur" placeholder="saisir auteur du feedback"/>
+	<textarea asp-for="Description"  placeholder="description du feedback" cols="50" rows="10">
+		Ecrivez ici..
+	</textarea>
+	<button type="submit">Send</button>
+	<button type="reset">Reset formulaire</button>
+</form>
